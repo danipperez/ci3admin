@@ -1,0 +1,1 @@
+<h1>Frontend > Auth > forgot_password</h1>
